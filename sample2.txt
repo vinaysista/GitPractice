@@ -1,0 +1,4 @@
+
+Modifying in branch 1
+Hello world ! Second GIT file
+
